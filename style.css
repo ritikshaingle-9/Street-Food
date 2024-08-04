@@ -1,8 +1,12 @@
+*{
+    background-color:black;
+}
 .heading{
  text-align:center;
  font-family: 'Courier New', Courier, monospace;
  padding-top: 5px;
- background-color: azure;
+ color:white;
+ background-color: black;
  padding-bottom: 10px;
 }
 .samosa{
