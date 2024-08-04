@@ -1,5 +1,28 @@
 .heading{
  text-align:center;
  font-family: 'Courier New', Courier, monospace;
+ padding-top: 5px;
  background-color: azure;
+ padding-bottom: 10px;
+}
+.samosa{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.btn{
+    width:140px;
+    height: 40px;
+    background-color:#99ffbb;
+    border-radius: 0px 40px 40px 0px;
+    font-size: 25px;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: double #009933 5px;
+}
+.btn:hover{
+    background-color:#ff794d;
+    color: white;
+    border-left: double white 5px;
 }
